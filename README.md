@@ -1,8 +1,6 @@
 # App-Internet-Control
 
-Açıklama:
-
-	Bu PowerShell betiği, belirli uygulamalar için Windows Güvenlik Duvarı kurallarını kullanarak internet erişimini kontrol etmenizi sağlar. Bir uygulamanın internet erişimini engelleyebilir veya engellenmişse yeniden açabilirsiniz, bunun için sadece uygulamanın yürütülebilir yolunu belirtmeniz yeterlidir. Betik, bir uygulamanın mevcut internet erişim durumunu kontrol etme seçeneği sunar.
+Bu PowerShell betiği, belirli uygulamalar için Windows Güvenlik Duvarı kurallarını kullanarak internet erişimini kontrol etmenizi sağlar. Bir uygulamanın internet erişimini engelleyebilir veya engellenmişse yeniden açabilirsiniz, bunun için sadece uygulamanın yürütülebilir yolunu belirtmeniz yeterlidir. Betik, bir uygulamanın mevcut internet erişim durumunu kontrol etme seçeneği sunar.
 
 Kullanım:
 1. Uygulamanın İnternet Erişimini Engelle:
